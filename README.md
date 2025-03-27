@@ -16,7 +16,7 @@ The primary goal of Prescripto Frontend is to simplify prescription management t
 - Easily customizable and extendable for future enhancements.
 
 ## Live Demo
-Experience the application live at: [Prescripto Live Demo](https://final-project-react-df07.onrender.com/home)
+Experience the application live at: [Prescripto Live Demo](https://final-project-react-df07.onrender.com/)
 
 ## Installation
 
