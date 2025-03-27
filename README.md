@@ -16,7 +16,7 @@ The primary goal of Prescripto Frontend is to simplify prescription management t
 - Easily customizable and extendable for future enhancements.
 
 ## Live Demo
-Experience the application live at: [Prescripto Live Demo](https://final-project-react-df07.onrender.com/)
+Experience the application live at: [Prescripto Live Demo](https://final-project-react-df07.onrender.com/home)
 
 ## Installation
 
@@ -25,12 +25,9 @@ Experience the application live at: [Prescripto Live Demo](https://final-project
 
 ### Steps
 1. Clone the repository using one of the following methods:
+
     ```sh
-    git clone https://github.com/MohabAlyusof/Final-Project-React.git
-    ```
-    or
-    ```sh
-    git clone git@github.com:MohabAlyusof/Final-Project-React.git
+    git clone https://github.com/bassam-alsaffar/Final-Project-React.git
     ```
 2. Navigate to the project directory:
     ```sh
